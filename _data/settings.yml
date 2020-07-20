@@ -1,9 +1,9 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross - Jekyll Portfolio Template
+title: TRFolio
 logo: logo.png
-email: steve.fruits@email.com
+email: suwungtandon@gmail.com
 phone: +880 2544 658 256
 address: 125/A, CA Commercial Area, California, USA
 
@@ -290,4 +290,4 @@ client-slider-items:
 # Contact Section
 
 contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-email: suwungtandon@gmail.com
